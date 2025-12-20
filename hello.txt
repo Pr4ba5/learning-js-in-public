@@ -1,8 +1,0 @@
-there difference between null and undefined.
-
-null
-there is varaible where we intentionally put its value to null.
-
-undefined
-we know there exist the variable and it hold some value but its just undefined, no value has been 
-stored there for now, but later on it can hold value.

@@ -5,14 +5,15 @@
 
 Java script variable can be defined in 4 ways.
 
-Modern Javascript
+### Modern Javascript
 1. Using Let
     Most often you will assign a value to the variable when you declare i
 
 2. Using const
     Always use const if you don't want the value to be changed in future.
 
-Traditinal Javascript
+### Traditinal Javascript
+
 3. using var for Variables
     The var keyword was used in javascript before 2015 only. Never use var if you can use const and let.
 
